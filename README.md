@@ -15,4 +15,7 @@ desc：
         hander
         a or s io for (one request -> more demand -> parallel demand per co -> one reply)
 
-        
+step 1. no coroutine
+
+<img width="578" height="157" alt="图片" src="https://github.com/user-attachments/assets/13e9158e-db3a-455b-a82a-2ef2b73a452c" />
+
