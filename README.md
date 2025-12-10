@@ -16,7 +16,4 @@ desc：
         a or s io for (one request -> more demand -> parallel demand per co -> one reply)
 
 step 1. no coroutine
-
-<img width="578" height="157" alt="图片" src="https://github.com/user-attachments/assets/13e9158e-db3a-455b-a82a-2ef2b73a452c" />
-
-<img width="550" height="127" alt="图片" src="https://github.com/user-attachments/assets/14106073-d526-494d-822d-7763b007c69f" />
+<img width="574" height="281" alt="图片" src="https://github.com/user-attachments/assets/fcc6a86d-771c-42a7-bc46-a7e69d985d98" />
