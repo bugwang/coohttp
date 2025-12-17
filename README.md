@@ -34,7 +34,9 @@ nginx test
 step 2. coroutine api
 
         协程基本封装完成 The basic functionality of the coroutine is complete.
-        参考 https://github.com/bugwang/coo fork from https://github.com/avplayer/ucoro [ucoro](https://github.com/avplayer/ucoro) <a href="https://github.com/avplayer/ucoro">ucoro</a>
+        参考 https://github.com/bugwang/coo fork from https://github.com/avplayer/ucoro 
+请访问 [ucoro](https://github.com/avplayer/ucoro) 
+<a href="https://github.com/bugwang/coo"> coo </a>
 
 step 3. server + coroutine
 
