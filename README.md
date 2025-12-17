@@ -29,3 +29,11 @@ step 1. no coroutine
 nginx test
 
 <img width="659" height="129" alt="图片" src="https://github.com/user-attachments/assets/883b487f-51f3-49c3-a728-243e7c1aa286" />
+
+
+step 2. coroutine api
+        协程基本封装完成 The basic functionality of the coroutine is complete.
+        参考 https://github.com/bugwang/coo fork from https://github.com/avplayer/ucoro
+
+step 3. server + coroutine
+        start ... 
