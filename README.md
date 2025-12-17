@@ -1,7 +1,7 @@
 # coohttp
 
 The goal is to hunt and kill the microservices of go.
-本项目最终目标就是干掉 go 在web或者http的微服务架构运用。
+本项目最终目标就是干掉 go 在web或者http的微服务架构。
 
 idea：
 http server ，http client api:
