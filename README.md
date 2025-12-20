@@ -23,7 +23,8 @@ desc：
 step 1. no coroutine
 
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/7385ae04-f719-44ed-8069-973e9615b424" />
-<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/8d3215d5-1f66-4beb-8d2d-5acd1709af39" />
+<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/7b63c1d6-9d51-4c1c-9086-215d9fce056a" />
+更低的延迟和稳定
 
 nginx test
 
