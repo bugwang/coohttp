@@ -30,6 +30,7 @@ nginx test
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/883b487f-51f3-49c3-a728-243e7c1aa286" />
 
 cinatra test
+
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/97bb7fa2-3dc7-47f4-acd7-778ebb4046db" />
 
 step 2. coroutine api
