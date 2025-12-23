@@ -1,8 +1,11 @@
 # coohttp
 
-The goal is to hunt and kill the microservices of go.
+The goal is to hunt and kill the microservices of go.(hate and distaste for Go's syntax)
 
-本项目最终目标就是干掉 go 在web或者http的微服务架构。
+本项目最终目标就是干掉 go 在web或者http的微服务架构（就是因为极其恶心go的语法）。
+github上很多优秀的http架构。不过存在几个问题：
+C++架构：过度封装，泛化模版 对半C/半C++ 的 很不友好，特别那些什么骆驼匈牙利命名法。
+C架构：  过于细碎，语言本身带来的开发效率问题，对现代业务快速发展变化生态很不友好
 
 idea：
 http server ，http client api:
