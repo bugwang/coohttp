@@ -1,6 +1,7 @@
 # coohttp
 
 The goal is to hunt and kill the microservices of go.
+
 本项目最终目标就是干掉 go 在web或者http的微服务架构。
 
 idea：
@@ -11,6 +12,8 @@ use coroutine
 and don't depend on third party or only header file.
 
 yes, i need time
+
+目前只是demo，完全无法在生产环境使用
 
 desc：
 
