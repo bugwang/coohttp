@@ -35,7 +35,7 @@ step 1. no coroutine
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/7385ae04-f719-44ed-8069-973e9615b424" />
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/7b63c1d6-9d51-4c1c-9086-215d9fce056a" />
 
-<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/95968ec7-a9f7-487f-8e6e-85c00999de6b" />
+<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/5f063bff-7dc3-4d46-8f13-1b3e2ecf6283" />
 
 nginx test
 
