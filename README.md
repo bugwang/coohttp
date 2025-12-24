@@ -20,7 +20,7 @@ and don't depend on third party or only header file.
 
 yes, i need time
 
-目前只是demo，完全无法在生产环境使用
+目前只是demo，经过性能测试目前已经世界级，特别C++里 TOP Level，不过还无法在生产环境使用。
 
 desc：
 
