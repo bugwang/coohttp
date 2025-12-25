@@ -45,7 +45,7 @@ cinatra top 1 of 2022 world test
 
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/97bb7fa2-3dc7-47f4-acd7-778ebb4046db" />
 
-<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/b10b19d1-12e2-4b86-aba4-ffb55aea4498" />
+<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/f0ab2c75-869a-43ee-997f-334b86f4d2f4" />
 
 mrhttp top 1 of 2025 world test , mrhttp 是多进程、而且做了CPU指令优化，其实不能算微架构方面的。
 
