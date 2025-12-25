@@ -6,7 +6,7 @@ The goal is to hunt and kill the microservices of go.(hate and distaste for go's
 
 github上很多优秀的http架构。不过存在几个问题：
 
-C++架构：过度封装，泛化模版 对半C/半C++ 的 很不友好，特别那些什么骆驼匈牙利命名法。
+C++架构：过度封装设计，泛化模版嵌套 对半C/半C++ 的 很不友好，特别那些什么骆驼匈牙利命名法。
 
 C架构：  过于细碎，语言本身带来的开发效率问题，对现代业务快速发展变化生态很不友好。
 
@@ -44,6 +44,8 @@ nginx test
 cinatra top 1 of 2022 world test
 
 <img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/97bb7fa2-3dc7-47f4-acd7-778ebb4046db" />
+
+<img width="659" height="128" alt="图片" src="https://github.com/user-attachments/assets/b10b19d1-12e2-4b86-aba4-ffb55aea4498" />
 
 mrhttp top 1 of 2025 world test , mrhttp 是多进程、而且做了CPU指令优化，其实不能算微架构方面的。
 
